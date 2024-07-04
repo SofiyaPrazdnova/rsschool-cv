@@ -1,1 +1,1 @@
-[CV](https://sofiyaprazdnova.github.io/rsschool-cv/)
+[PrazdnovaSofiya](https://sofiyaprazdnova.github.io/rsschool-cv/)
