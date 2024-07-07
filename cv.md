@@ -53,7 +53,7 @@ output(a, b);
 ******
 ### Expirience
 * 3 years of math modeling in Ansys
-* Basics knolege in programing 
+* Basics knowledge in programming 
 
 ******
 ### Education
@@ -61,7 +61,7 @@ output(a, b);
 
 **Faculty:** Mechanics and Math modelinf
 
-**Graduated:** 2025
+**Graduation:** 2025
 
 ******
 ### Courses
@@ -71,6 +71,6 @@ output(a, b);
 ******
 ### Languages
 * Russian - native
-* Belorusian - native
-* English - Intermidiate (B2)
+* Belarusian - native
+* English - Intermediate (B2)
 * Chinese - HSK 2
