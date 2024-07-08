@@ -1,3 +1,49 @@
-h1 {
-    color: #8a2be2;
+body {
+    height: 1200px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(228, 182, 235);
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgb(138, 200, 233);
+    padding: 40px;
+    width: 100%;
+}
+
+.header-image {
+    height: 200px;
+    border-radius: 100%;
+    margin: 0 200px 20px 0;
+
+}
+
+
+.git-img {
+    height: 50px;
+}
+
+.rs-img {
+    height: 50px;
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: rgb(138, 200, 233);
+}
+
+.link-container.github {
+    margin: 50px 200px;
+}
+
+.link-container.rsschool {
+    margin: 50px 200px;
 }
